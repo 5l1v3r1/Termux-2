@@ -28,6 +28,9 @@
 ##### Когда напишешь qiq-install, то тебе напишет Enter module name to install и пиши название модуля который хочешь скачать, например git, python, wget
 </details>
 
+<details id="missing-code-coverage">
+  <summary>view qiq more commands</summary>
+
 ```
 >>> qiq-help      :view more qiq info
 >>> qiq-update    :update qiq
@@ -68,3 +71,4 @@
 >>> qiq-FreeProxy       :Install Free-Proxy
 >>> qiq-AdminHack       :Install AdminHack
 ```
+</details>
