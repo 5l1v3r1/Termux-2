@@ -83,10 +83,33 @@
 * `cd AdminHack`
 * `bash setup.sh`
 
-#### Для запуска инструмента Admin Hack напишите команду: bash AdminHack.sh
-#### Или можно написать команду: cd && cd AdminHack && bash AdminHack.sh
-#### Или команда: 
+```
+Для запуска инструмента Admin Hack напишите команду: bash AdminHack.sh
 
+Или можно написать команду: cd && cd AdminHack && bash AdminHack.sh :рекомендую использовать ету команду!
+
+Или команда: bash Y2QgJiYgY2QgQWRtaW5IYWNrICYmIGJhc2ggQWRtaW5IYWNrLnNo | base64 -d | bash
+```
+
+------
+
+## Установка Free-Proxy
+
+* `git clone https://github.com/mishakorzik/Free-Proxy`
+* `cd Free-Proxy`
+* `bash SetupLinux.sh`
+
+```
+Для запуска инструмента Admin Hack напишите команду: bash FreeProxy.sh
+
+Или можно написать команду: cd && cd Free-Proxy && bash FreeProxy.sh :рекомендую использовать ету команду!
+```
+
+##### Готово! Теперь у тебя есть инструмент который генерирует рабочие прокси сервера. Прокси часто нужны для смс бомберов!
+
+---------
+## The End....
+#### Bye bye! Have a nice day.
 
 
 
