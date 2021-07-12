@@ -28,6 +28,7 @@
 ##### Когда напишешь qiq-install, то тебе напишет Enter module name to install и пиши название модуля который хочешь скачать, например git, python, wget
 </details>
 
+```
 >>> qiq-help      :view more qiq info
 >>> qiq-update    :update qiq
 >>> qiq-version   :view qiq version
@@ -48,7 +49,7 @@
 >>> qiq-usr       :cd to derictory
 >>> qiq-bin       :cd to derictory
 ┬─┐o┌─┐┬  ┬─┐┌┐┐  ┌┐┐┬─┐┐ ┬  ┌─┐┌─┐┌┌┐┌┌┐┬─┐┌┐┐┬─┐┐─┐
-├─ ││ ┬│  ├─  │   │││├─ │││  │  │ ││││││││─┤││││ │└─┐
+├─ ││ ┬│  ├─  │    │││├─ │││  │  │ ││││││││─┤││││ │└─┐
 ┆  ┆┆─┘┆─┘┴─┘ ┆   ┆└┘┴─┘└┴┆  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
 >>> figlet -f Puffy   :no description
 >>> figlet -f Bloody  :no description
@@ -66,3 +67,4 @@
 >>> qiq-AllHackingTools :Install AllHackingTools
 >>> qiq-FreeProxy       :Install Free-Proxy
 >>> qiq-AdminHack       :Install AdminHack
+```
