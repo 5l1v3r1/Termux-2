@@ -75,6 +75,19 @@
 
 -----
 
-## Установка qiq
+## Установка AdminHack
+
+##### Инструмент AdminHack для того чтобы можно было делать тест сайта на безопасность, но мы можем его использовать для взлома сайта. Сразу говорю AdminHack некоторые сайты может взломать а некоторые не может.
+
+* `git clone https://github.com/mishakorzik/AdminHack`
+* `cd AdminHack`
+* `bash setup.sh`
+
+#### Для запуска инструмента Admin Hack напишите команду: bash AdminHack.sh
+#### Или можно написать команду: cd && cd AdminHack && bash AdminHack.sh
+#### Или команда: 
+
+
+
 
 
