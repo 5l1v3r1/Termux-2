@@ -1,4 +1,5 @@
 # Termux-2
+<img src="https://img.shields.io/badge/Build-passed-green.svg" alt="passed"> <img src="https://img.shields.io/badge/Termux-⁣ 2⁣ ⁣ -blue.svg" alt="Termux"> <img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="license">
 #### Привет сегодня мы будем скачивать некоторые инструменты для взлом. Ну что погнали!
 
 ## ВНИМАНИЕ
