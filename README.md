@@ -72,3 +72,9 @@
 >>> qiq-AdminHack       :Install AdminHack
 ```
 </details>
+
+-----
+
+## Установка qiq
+
+
